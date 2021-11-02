@@ -1,0 +1,32 @@
+/* Work + school picture */
+.work-pic {
+  /* display: flex; */
+  width: 35%;
+  height: 0%;
+  padding-right: 10px;
+  padding-bottom: 50px;
+}
+
+.school-pic {
+  width: 35%;
+  height: 0%;
+  padding-right: 10px;
+}
+
+/* layout text-picture */
+
+.article1 {
+  display: flex;
+}
+
+.article2 {
+  display: flex;
+}
+
+.p2 {
+  margin: 0px;
+}
+
+.p3 {
+  margin: 0px;
+}
