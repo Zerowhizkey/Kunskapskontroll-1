@@ -1,38 +1,42 @@
 /* Profile pic */
 
-.marcus {
+.main-pic {
   display: flex;
   width: 35%;
 }
 
 /* Main */
-.p1 {
+.main-intro {
   padding: 5px;
   border: solid rgba(128, 128, 128, 0.5);
   margin-top: 0px;
-  background-color: rgba(255, 255, 255, 0.5);
 }
+  
+  
 
 h2 {
   margin-bottom: 0px;
 }
 
 /* Main media */
-@media (min-width: 760px) {
-  .section1 {
+/* Media paj fixa!! */
+/* @media (min-width: 760px) {
+  .heading .main-pic  {
     display: flex;
     flex-direction: row-reverse;
     justify-content: flex-end;
     padding-top: 26px;
-  }
-  .h1-index {
+  } */
+
+
+  h1 {
     padding-left: 10px;
   }
-}
 
-* {
-  margin: 0;
-  padding-inline-start: 0;
-}
+
+
+
+
+
 
 

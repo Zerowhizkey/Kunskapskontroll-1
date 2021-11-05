@@ -1,68 +1,14 @@
-/* Contact form */
-.h1-contact {
+
+h1 {
   display: flex;
   justify-content: center;
   margin: 0;
 }
 
-.p4 {
+p {
   display: flex;
   justify-content: center;
   margin-top: 0;
   margin-bottom: 30px;
 }
 
-.contact-form {
-  display: grid;
-  justify-content: center;
-  justify-items: center;
-}
-
-.name-form {
-  width: 150px;
-  margin-bottom: 20px;
-  border-radius: 5px;
-}
-
-.email-form {
-  width: 150px;
-  margin-bottom: 20px;
-  border-radius: 5px;
-}
-
-.text-form {
-  width: 320px;
-  height: 120px;
-  border-radius: 5px;
-}
-
-/* fancy */
-.name-form:hover {
-  width: 200px;
-  height: 35px;
-  border-bottom: solid 5px rgb(21, 214, 188);
-  transition: ease 0.5s;
-}
-
-.email-form:hover {
-  width: 200px;
-  height: 35px;
-  border-bottom: solid 5px rgb(21, 214, 188);
-  transition: ease 0.5s;
-}
-
-.text-form:hover {
-  width: 370px;
-  height: 150px;
-  border-radius: 5px;
-  border-bottom: solid 5px rgb(21, 214, 188);
-  transition: ease 0.5s;
-}
-
-.contact-button:hover {
-  width: 60px;
-  height: 31px;
-  background-color: rgba(0, 0, 0, 0.5);
-  transition: ease 0.5s;
-  border-radius: 5px;
-}
