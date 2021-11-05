@@ -11,8 +11,8 @@ body {
 }
 
 /* Experience */
-    
-figcaption {
+     
+ .exp-text {
     border: solid 1px rgba(128, 128, 128, 0.5);
     background-color: rgba(255, 255, 255, 0.5);
   }
@@ -23,8 +23,13 @@ figcaption {
     background-color: rgba(255, 255, 255, 0.5);
 }
 
-
 /* footer */
 footer {
     background-color: grey;
+  }
+
+  /* Header */
+
+  header a {
+      color: rgb(0, 0, 0);
   }

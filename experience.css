@@ -4,15 +4,14 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
-  align-items: center;
+  padding-top: 3rem;
 }
+  
 .work-pic {
   width: 50%;
   padding-left: 1rem;
 }
-  
-/* img class name ? */
-  
+    
 .school-pic {
   width: 50%;
   padding-left: 1rem;
@@ -20,5 +19,6 @@
   
 
   
+
 
 
